@@ -7,7 +7,7 @@ const nextConfig = {
     path: "",
   },
   trailingSlash: true,
-  assetPrefix: "runfortree-d2cf97.spheron.app",
+  assetPrefix: "https://runfortree-d2cf97.spheron.app",
 }
 
 
